@@ -1,0 +1,28 @@
+# Professional Development Artifacts
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Build artifacts
+target/
+build/
+dist/
+out/
+
+# OS generated files
+.DS_Store?
+ehthumbs.db
+Icon?
+.Spotlight-V100
+.Trashes
+
+# Backup files
+*.bak
+*.backup
