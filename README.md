@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" />
 
 # 👋 Hi, I'm Ansh Patoliya!
 
@@ -68,6 +69,11 @@ I'm a passionate developer, tech enthusiast, and lifelong learner. Here you'll f
   <img src="https://raw.githubusercontent.com/Ansh-Patoliya/Ansh-Patoliya/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ansh-Patoliya&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
 ### 📊 Weekly Development Breakdown
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -97,4 +103,11 @@ Thanks for stopping by! ⭐️
 
 <div align="center">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<br/>
+
+### 🚀 Thanks for visiting my GitHub profile! 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
 </div>  
