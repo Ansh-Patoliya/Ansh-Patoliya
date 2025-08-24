@@ -1,0 +1,132 @@
+---
+name: Update Guest Book
+
+on:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+  workflow_dispatch: true
+  watch:
+    types: [started]
+
+jobs:
+  update-guest-book:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: read
+      discussions: read
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update Guest Book
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+
+            // Get recent stargazers
+            const stargazers = await github.rest.activity
+              .listStargazersForRepo({
+                owner: 'Ansh-Patoliya',
+                repo: 'Ansh-Patoliya',
+                per_page: 10
+              });
+
+            // Get recent followers (if available)
+            let followers = [];
+            try {
+              const followersResponse = await github.rest.users
+                .listFollowersForUser({
+                  username: 'Ansh-Patoliya',
+                  per_page: 10
+                });
+              followers = followersResponse.data;
+            } catch (error) {
+              console.log('Could not fetch followers:', error.message);
+            }
+
+            // Read current README
+            const readmePath = path.join(process.env.GITHUB_WORKSPACE,
+              'README.md');
+            let readmeContent = fs.readFileSync(readmePath, 'utf8');
+
+            // Build guest book content
+            let guestBookContent = '**Recent Visitors:**\n';
+
+            // Add recent stargazers
+            if (stargazers.data.length > 0) {
+              guestBookContent += '**⭐ Recent Stars:**\n';
+              stargazers.data.slice(0, 5).forEach(user => {
+                const starredDate = new Date(user.starred_at ||
+                  Date.now()).toLocaleDateString();
+                guestBookContent += `- [![${user.login}]` +
+                  `(https://github.com/${user.login}.png?size=20)]` +
+                  `(https://github.com/${user.login}) ` +
+                  `[**${user.login}**](https://github.com/${user.login}) ` +
+                  `starred on ${starredDate}\n`;
+              });
+              guestBookContent += '\n';
+            }
+
+            // Add recent followers
+            if (followers.length > 0) {
+              guestBookContent += '**👥 Recent Followers:**\n';
+              followers.slice(0, 5).forEach(user => {
+                guestBookContent += `- [![${user.login}]` +
+                  `(https://github.com/${user.login}.png?size=20)]` +
+                  `(https://github.com/${user.login}) ` +
+                  `[**${user.login}**](https://github.com/${user.login})\n`;
+              });
+              guestBookContent += '\n';
+            }
+
+            // Add call to action
+            guestBookContent += `**Want to be featured here?**\n`;
+            guestBookContent += `- ⭐ [Star this repo]` +
+              `(https://github.com/Ansh-Patoliya/Ansh-Patoliya)\n`;
+            guestBookContent += `- 👥 [Follow me]` +
+              `(https://github.com/Ansh-Patoliya)\n`;
+            guestBookContent += `- 💬 [Start a discussion]` +
+              `(https://github.com/Ansh-Patoliya/Ansh-Patoliya/discussions)\n`;
+            guestBookContent += `- 🤝 [Connect on LinkedIn]` +
+              `(https://www.linkedin.com/in/ansh-patoliya)\n`;
+
+            // Update README content
+            const guestBookStart = '<!-- GUESTBOOK:START -->';
+            const guestBookEnd = '<!-- GUESTBOOK:END -->';
+
+            const startIndex = readmeContent.indexOf(guestBookStart);
+            const endIndex = readmeContent.indexOf(guestBookEnd);
+
+            if (startIndex !== -1 && endIndex !== -1) {
+              const beforeGuestBook = readmeContent.substring(0,
+                startIndex + guestBookStart.length);
+              const afterGuestBook = readmeContent.substring(endIndex);
+
+              readmeContent = beforeGuestBook + '\n' + guestBookContent +
+                afterGuestBook;
+
+              // Write updated README
+              fs.writeFileSync(readmePath, readmeContent);
+
+              console.log('Guest book updated successfully!');
+            } else {
+              console.log('Guest book markers not found in README.md');
+            }
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          if ! git diff --staged --quiet; then
+            git commit -m "🤖 Update guest book with recent visitors"
+            git push
+          else
+            echo "No changes to commit"
+          fi

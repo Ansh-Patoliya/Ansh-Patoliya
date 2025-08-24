@@ -2,6 +2,37 @@
 
 ![](https://komarev.com/ghpvc/?username=Ansh-Patoliya&label=Profile+Views)
 
+## 👥 Recent Visitors & Guest Book
+
+<div align="center">
+
+### 🔍 Who's Been Here?
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAnsh-Patoliya%2FAnsh-Patoliya&label=Unique%20Visitors&countColor=%23263759&style=flat&labelStyle=none)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FAnsh-Patoliya%2FAnsh-Patoliya)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ansh-Patoliya.Ansh-Patoliya)
+
+</div>
+
+### 📝 Digital Guest Book 
+*Welcome, fellow developer! Leave your mark here* 🚀
+
+<!-- GUESTBOOK:START -->
+**Recent Visitors:**
+- 👤 Want to see your name here? [**⭐ Star this repo**](https://github.com/Ansh-Patoliya/Ansh-Patoliya) and [**🌟 Follow me**](https://github.com/Ansh-Patoliya)!
+- 📝 Drop a comment in [**Discussions**](https://github.com/Ansh-Patoliya/Ansh-Patoliya/discussions) to sign the guest book
+- 💬 Connect with me on [**LinkedIn**](https://www.linkedin.com/in/ansh-patoliya) and mention you found me on GitHub!
+<!-- GUESTBOOK:END -->
+
+<div align="center">
+
+### 🎯 How to appear in the visitor list:
+[![Star](https://img.shields.io/badge/⭐_Star_this_repo-yellow?style=for-the-badge)](https://github.com/Ansh-Patoliya/Ansh-Patoliya)
+[![Follow](https://img.shields.io/badge/👥_Follow_me-blue?style=for-the-badge)](https://github.com/Ansh-Patoliya)
+[![Discuss](https://img.shields.io/badge/💬_Join_Discussion-green?style=for-the-badge)](https://github.com/Ansh-Patoliya/Ansh-Patoliya/discussions)
+
+</div>
+
+---
+
 **Full Stack Java Developer** passionate about building scalable, maintainable software systems.
 
 ## 🚀 About Me
