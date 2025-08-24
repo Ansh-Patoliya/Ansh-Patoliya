@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Ansh Patoliya!
 
+![](https://komarev.com/ghpvc/?username=Ansh-Patoliya&label=Profile+Views)
+
 **Full Stack Java Developer** passionate about building scalable, maintainable software systems.
 
 ## 🚀 About Me
