@@ -32,18 +32,18 @@ I'm a passionate **Full Stack Java Developer** with expertise in enterprise-grad
 ## 💼 Professional Experience & Expertise
 
 ### 🎯 Core Competencies
-- **Enterprise Application Development** - Building robust, scalable Java applications
-- **System Architecture & Design** - Microservices, REST APIs, and distributed systems
+- **Code Quality & Best Practices** - Clean code, SOLID principles, and design patterns
 - **Database Engineering** - Performance optimization, query tuning, and schema design
 - **DevOps & CI/CD** - Containerization, automated testing, and deployment pipelines
-- **Code Quality & Best Practices** - Clean code, SOLID principles, and design patterns
+- **Enterprise Application Development** - Building robust, scalable Java applications
+- **System Architecture & Design** - Microservices, REST APIs, and distributed systems
 
 ### 🏗️ Architecture & Design Patterns
-- **Microservices Architecture** - Service decomposition, API Gateway, Circuit Breaker
-- **Design Patterns** - Singleton, Factory, Observer, Strategy, Repository Pattern
-- **Enterprise Patterns** - MVC, MVP, MVVM, Dependency Injection, AOP
 - **API Design** - RESTful services, OpenAPI specification, API versioning
 - **Data Architecture** - CQRS, Event Sourcing, Database per Service pattern
+- **Design Patterns** - Factory, Observer, Repository Pattern, Singleton, Strategy
+- **Enterprise Patterns** - AOP, Dependency Injection, MVC, MVP, MVVM
+- **Microservices Architecture** - API Gateway, Circuit Breaker, Service decomposition
 
 ---
 
@@ -94,28 +94,28 @@ I'm a passionate **Full Stack Java Developer** with expertise in enterprise-grad
 ### 🎯 Technical Expertise:
 
 #### 🖥️ Backend Development
-- **Languages:** Java (JDK 8/11/17/21), Python, Groovy
-- **Frameworks:** Spring Boot, Spring Security, Spring Cloud, Spring Data JPA
-- **APIs:** RESTful Web Services, GraphQL, gRPC, OpenAPI 3.0
-- **Testing:** JUnit 5, Mockito, TestContainers, Spring Boot Test
+- **APIs:** GraphQL, gRPC, OpenAPI 3.0, RESTful Web Services
+- **Frameworks:** Spring Boot, Spring Cloud, Spring Data JPA, Spring Security
+- **Languages:** Groovy, Java (JDK 8/11/17/21), Python
+- **Testing:** JUnit 5, Mockito, Spring Boot Test, TestContainers
 
 #### 🗄️ Database & Data Management
-- **Relational:** MySQL, PostgreSQL, Oracle, SQL Server
-- **NoSQL:** MongoDB, Redis, Elasticsearch
-- **ORM/Data Access:** Hibernate, JPA, MyBatis, JDBC
-- **Performance:** Query optimization, indexing, connection pooling
+- **NoSQL:** Elasticsearch, MongoDB, Redis
+- **ORM/Data Access:** Hibernate, JDBC, JPA, MyBatis
+- **Performance:** Connection pooling, indexing, query optimization
+- **Relational:** MySQL, Oracle, PostgreSQL, SQL Server
 
 #### ☁️ DevOps & Infrastructure
-- **Containerization:** Docker, Docker Compose, Kubernetes
-- **CI/CD:** Jenkins, GitHub Actions, GitLab CI, Maven, Gradle
+- **CI/CD:** GitHub Actions, GitLab CI, Gradle, Jenkins, Maven
 - **Cloud Platforms:** AWS (EC2, RDS, S3, Lambda), Azure basics
-- **Monitoring:** Prometheus, Grafana, ELK Stack, Application insights
+- **Containerization:** Docker, Docker Compose, Kubernetes
+- **Monitoring:** Application insights, ELK Stack, Grafana, Prometheus
 
 #### 🔧 Development Tools & Practices
-- **IDEs:** IntelliJ IDEA, VS Code, Eclipse
-- **Version Control:** Git, GitHub, GitLab, Bitbucket
-- **Build Tools:** Maven, Gradle, SBT
-- **Code Quality:** SonarQube, PMD, Checkstyle, SpotBugs
+- **Build Tools:** Gradle, Maven, SBT
+- **Code Quality:** Checkstyle, PMD, SonarQube, SpotBugs
+- **IDEs:** Eclipse, IntelliJ IDEA, VS Code
+- **Version Control:** Bitbucket, Git, GitHub, GitLab
 
 ---
 ## 🚀 Featured Projects & Work
@@ -200,10 +200,10 @@ I'm a passionate **Full Stack Java Developer** with expertise in enterprise-grad
 
 ### 🏗️ Development Principles
 - **Clean Code** - Readable, maintainable, well-documented code
-- **SOLID Principles** - Object-oriented design best practices
-- **Test-Driven Development** - Comprehensive unit and integration testing
 - **Continuous Integration** - Automated builds, tests, and deployments
 - **Security First** - Secure coding practices and vulnerability management
+- **SOLID Principles** - Object-oriented design best practices
+- **Test-Driven Development** - Comprehensive unit and integration testing
 
 </div>
 
