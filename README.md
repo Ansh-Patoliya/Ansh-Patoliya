@@ -15,6 +15,8 @@
 ### 📝 Digital Guest Book 
 *Welcome, fellow developer! Leave your mark here* 🚀
 
+> 🤖 **Live Tracking Active**: This guest book automatically updates with recent visitors every 6 hours!
+
 <!-- GUESTBOOK:START -->
 **Recent Visitors:**
 - 👤 Want to see your name here? [**⭐ Star this repo**](https://github.com/Ansh-Patoliya/Ansh-Patoliya) and [**🌟 Follow me**](https://github.com/Ansh-Patoliya)!
