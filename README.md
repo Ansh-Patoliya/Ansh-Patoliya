@@ -62,8 +62,25 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ansh-Patoliya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Patoliya&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ansh-Patoliya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Patoliya&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Patoliya&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ansh-Patoliya&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="github-metrics.svg" alt="Metrics" width="100%"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh-Patoliya/Ansh-Patoliya/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ansh-Patoliya/Ansh-Patoliya/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ansh-Patoliya/Ansh-Patoliya/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## 🌐 Connect with Me
