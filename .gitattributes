@@ -1,0 +1,35 @@
+# Help GitHub detect languages properly
+*.java linguist-language=Java
+*.py linguist-language=Python
+*.js linguist-language=JavaScript
+*.ts linguist-language=TypeScript
+*.html linguist-language=HTML
+*.css linguist-language=CSS
+*.sql linguist-language=SQL
+*.xml linguist-language=XML
+*.yml linguist-language=YAML
+*.yaml linguist-language=YAML
+*.json linguist-language=JSON
+*.sh linguist-language=Shell
+
+# Exclude documentation and config files from language stats
+*.md linguist-documentation
+*.txt linguist-documentation
+*.rst linguist-documentation
+README* linguist-documentation
+CHANGELOG* linguist-documentation
+LICENSE* linguist-documentation
+CONTRIBUTING* linguist-documentation
+
+# Exclude generated files
+dist/* linguist-generated
+build/* linguist-generated
+target/* linguist-generated
+*.min.js linguist-generated
+*.min.css linguist-generated
+
+# Exclude vendor/dependency files
+node_modules/* linguist-vendored
+vendor/* linguist-vendored
+libs/* linguist-vendored
+dependencies/* linguist-vendored
