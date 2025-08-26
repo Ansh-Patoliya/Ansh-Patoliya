@@ -1,32 +1,63 @@
-# 👋 Hi, I'm Ansh Patoliya!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ansh%20Patoliya&fontSize=50&fontColor=fff&animation=fadeIn" alt="Header"/>
+</p>
 
-![](https://komarev.com/ghpvc/?username=Ansh-Patoliya&label=Profile+Views)
+<h1 align="center">👋 Full Stack Java Developer</h1>
 
-**Full Stack Java Developer** passionate about building scalable, maintainable software systems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ansh-Patoliya&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+scalable+software+systems;Passionate+about+clean+architecture;Turning+ideas+into+reality" alt="Typing SVG" />
+</p>
 
 ## 🚀 About Me
 
-- 🔭 Working on enterprise Java applications and microservices
-- 🌱 Learning advanced Spring ecosystem and cloud-native technologies
-- 💬 Ask me about Java, Spring Boot, microservices, and database design
-- 📫 Reach me at: **anshpatoliya1408@gmail.com**
-- ⚡ Fun fact: I turn coffee into code! ☕
+<p align="center">
+  🔭 <strong>Enterprise Java & Microservices</strong> •
+  🌱 <strong>Spring Cloud</strong> •
+  💬 <strong>Backend Architecture</strong> •
+  ⚡ <strong>Coffee → Code</strong> ☕
+</p>
 
 ## 🛠️ Tech Stack
 
-**Languages:** Java, Python  
-**Frameworks:** Spring Boot, Spring Security, Spring Cloud  
-**Databases:** MySQL, PostgreSQL, MongoDB, Redis  
-**DevOps:** Docker, Kubernetes, Jenkins, AWS  
-**Tools:** Git, IntelliJ IDEA, Maven, Gradle
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="Spring Security"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 ## 🚀 Featured Projects
 
-### 🎓 CampusConnect Platform
-Enterprise campus management system with Spring Boot, MySQL, and role-based security.
+<p align="center">
+  🎓 <strong>CampusConnect Platform</strong> | 🏗️ <strong>Microservices Demo</strong>
+</p>
 
-### 🏗️ Microservices Architecture Demo
-Scalable distributed system using Spring Cloud Gateway, Eureka, and Docker.
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=microgenetics&logoColor=white" alt="Microservices"/>
+</p>
 
 ## 📈 GitHub Stats
 
@@ -37,10 +68,20 @@ Scalable distributed system using Spring Cloud Gateway, Eureka, and Docker.
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ansh-patoliya)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anshpatoliya1408@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ansh-Patoliya)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ansh-patoliya">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:anshpatoliya1408@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Ansh-Patoliya">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
+</p>
 
-Thanks for visiting! ⭐️
+<p align="center">Thanks for visiting! ⭐️</p>
