@@ -78,10 +78,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ansh-Patoliya&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh-Patoliya/Ansh-Patoliya/output/snake-dark.svg" />
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ansh-Patoliya/Ansh-Patoliya/output/snake.svg" />
