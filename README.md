@@ -66,6 +66,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Patoliya&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,cmake&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ansh-Patoliya&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh-Patoliya&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</p>
+
+
 ## 🌐 Connect with Me
 
 <p align="center">
