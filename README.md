@@ -66,22 +66,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Patoliya&layout=compact&langs_count=8&theme=tokyonight&hide=html,css,cmake&include_all_commits=true&count_private=true&hide_border=true"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Patoliya&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-Patoliya&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="Detailed GitHub Metrics"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ansh-Patoliya/Ansh-Patoliya/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-</div>
-
 ## 🌐 Connect with Me
 
 <p align="center">
