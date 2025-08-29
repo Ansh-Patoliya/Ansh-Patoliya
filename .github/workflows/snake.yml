@@ -5,6 +5,8 @@ on:
     - cron: "0 0 * * *"   # daily, UTC midnight
   workflow_dispatch:       # manual run from Actions tab
 
+permissions:
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
