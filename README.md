@@ -62,9 +62,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Patoliya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansh-Patoliya&theme=tokyonight" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansh-Patoliya&theme=tokyonight" alt="Most commit language"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansh-Patoliya&theme=tokyonight" alt="Stats"/>
+</p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ansh-Patoliya&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
@@ -99,7 +103,9 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
 </p>
