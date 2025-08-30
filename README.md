@@ -72,19 +72,15 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ansh-Patoliya&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh-Patoliya&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh-Patoliya/Ansh-Patoliya/output/snake-dark.svg" />
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ansh-Patoliya/Ansh-Patoliya/output/snake.svg" />
   </picture>
 </p>
-
-
 
 ## 🌐 Connect with Me
 
