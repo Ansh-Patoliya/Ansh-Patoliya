@@ -62,18 +62,18 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansh-Patoliya&hide_border=true&theme=tokyonight" alt="Repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansh-Patoliya&hide_border=true&theme=tokyonight" alt="Most commit language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansh-Patoliya&theme=tokyonight&hide_border=true" alt="Repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansh-Patoliya&theme=tokyonight&hide_border=true" alt="Most commit language"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansh-Patoliya&hide_border=true&theme=tokyonight" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansh-Patoliya&theme=tokyonight&hide_border=true" alt="Stats"/>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ansh-Patoliya&hide_border=true&theme=tokyonight" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=Ansh-Patoliya&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh-Patoliya&hide_border=true&theme=tokyo-night" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh-Patoliya&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 <p align="center">
   <picture>
