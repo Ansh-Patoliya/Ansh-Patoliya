@@ -23,7 +23,7 @@ Built as a team project with a focus on data accuracy and consistent portfolio s
 
 | Other Projects | Focus |
 | --- | --- |
-| Syntra | Full-stack application (details in repository) |
+| Syntra | Full-stack workflow and task management app |
 | CampusConnect | Campus collaboration platform |
 | Employee Management System | Employee records management app |
 | Online Banking System | Banking workflow simulation |
