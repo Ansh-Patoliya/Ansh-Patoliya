@@ -1,106 +1,41 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ansh%20Patoliya&fontSize=50&fontColor=fff&animation=fadeIn" alt="Header"/>
-</p>
+# Ansh Patoliya
+Backend-focused Full Stack Developer | Java • Spring Boot • Python
 
-<h1 align="center">👋 Full Stack Java Developer</h1>
+## About
+2nd year B.Tech student building production-grade backend systems.<br>
+Focused on Java, Spring Boot, and microservices architecture for scalable services.<br>
+Also ships full stack projects in Python (Flask) with modern frontends.<br>
+Currently open to internship opportunities.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ansh-Patoliya&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views"/>
-</p>
+## Featured Projects
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+scalable+software+systems;Passionate+about+clean+architecture;Turning+ideas+into+reality" alt="Typing SVG" />
-</p>
+### HackHub
+Hackathon management platform that streamlines organizer workflows and team participation across events.
+Supports team registration, organizer-driven event posting, and a judging system to manage submissions and scoring.
+Built as a team project with clear participant and organizer flows to keep event operations reliable.
+**Built with:** Python (Flask), HTML, CSS, Bootstrap, Vanilla JS · **Team project**
 
-## 🚀 About Me
+### StocxSim
+Stock market paper trading simulator that uses real market data for realistic decision-making.
+Integrates the Angle One API for live prices with paper trading, portfolio tracking, P&L calculation, and a leaderboard.
+Built as a team project with a focus on data accuracy and consistent portfolio state updates.
+**Built with:** Python (Flask), HTML, CSS, Tailwind CSS, Vanilla JS · **Team project**
 
-<p align="center">
-  🔭 <strong>Enterprise Java & Microservices</strong> •
-  🌱 <strong>Spring Cloud</strong> •
-  💬 <strong>Backend Architecture</strong> •
-  ⚡ <strong>Coffee → Code</strong> ☕
-</p>
+| Other Projects | Focus |
+| --- | --- |
+| Syntra | Full-stack application (details in repository) |
+| CampusConnect | Campus collaboration platform |
+| Employee Management System | Employee records management app |
+| Online Banking System | Banking workflow simulation |
 
-## 🛠️ Tech Stack
+## Tech Stack
+**Backend:** Java, Spring Boot, Microservices, Python, Flask  
+**Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, Vanilla JS  
+**Database:** MySQL, PostgreSQL  
+**Tools:** Docker, Git, GitHub
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="Spring Boot"/>
-  
-</p>
+## What I Am Looking For
+Currently seeking backend/full stack internship opportunities — open to collaborating on meaningful projects.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-## 🚀 Featured Projects
-
-<p align="center">
-  🎓 <strong>CampusConnect Platform</strong> | 🏗️ <strong>Microservices Demo</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6B6B?style=flat-square&logo=microgenetics&logoColor=white" alt="Microservices"/>
-</p>
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ansh-Patoliya&theme=tokyonight&hide_border=true" alt="Repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ansh-Patoliya&theme=tokyonight&hide_border=true" alt="Most commit language"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ansh-Patoliya&hide_border=true&theme=tokyonight" alt="Stats"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ansh-Patoliya&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ansh-Patoliya&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ansh-Patoliya&hide_border=true&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ansh-Patoliya/Ansh-Patoliya/output/snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Ansh-Patoliya/Ansh-Patoliya/output/snake.svg" />
-  </picture>
-</p>
-
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ansh-patoliya">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:anshpatoliya1408@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Ansh-Patoliya">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer"/>
-</p>
-
-<p align="center">Thanks for visiting! ⭐️</p>
+## Connect
+[LinkedIn](https://www.linkedin.com/in/ansh-patoliya) · [GitHub](https://github.com/Ansh-Patoliya) · [Email](mailto:anshpatoliya1408@gmail.com)
