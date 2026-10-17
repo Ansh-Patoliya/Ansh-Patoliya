@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Building+Syntra%2C+a+hackathon+management+SaaS;Django+REST+%2B+Next.js+developer;Turning+data+into+insights;Based+in+Ahmedabad%2C+Gujarat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=520&lines=Working+at+Vidhyantu+%E2%80%94+coaching+SaaS+for+Gujarat;Django+REST+%2B+Next.js+developer;Turning+data+into+insights;Based+in+Ahmedabad%2C+Gujarat" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
@@ -21,11 +21,11 @@
   🏏 <strong>Cricket (IPL) Analytics</strong>
 </p>
 
-## 🔥 Currently Building
+## 🔥 Currently Working At
 
 <p align="center">
-  🏆 <strong>Syntra</strong> — a hackathon management SaaS platform<br/>
-  Django REST Framework backend • Next.js frontend
+  🚀 <strong><a href="https://vidhyantu.com">Vidhyantu</a></strong> — coaching management software for tuition classes & institutes in Gujarat<br/>
+  <sub>Smarter Coaching. Built for Gujarat.</sub>
 </p>
 
 ## 🛠️ Tech Stack
